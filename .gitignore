@@ -1,0 +1,12 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# Local IDE and assistant state
+.vs/
+.refact/
+*.user
+*.suo
+
+# macOS metadata
+.DS_Store
